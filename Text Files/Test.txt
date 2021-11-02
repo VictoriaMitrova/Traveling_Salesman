@@ -1,0 +1,14 @@
+digraph G{
+Sofia;
+Burgas;
+Varna;
+Vratsa;
+Mezdra;
+Sofia->Vratsa [dir = "none" label = "3"];
+Burgas->Varna [dir = "none" label = "5"];
+Vratsa->Mezdra[dir = "none" label = "4"];
+Varna->Mezdra [dir = "none" label = "1"];
+Varna->Sofia [dir = "none" label = "9"];
+Burgas->Mezdra [dir = "none" label = "2"];
+Sofia->Burgas [dir = "none" label = "6"];
+}

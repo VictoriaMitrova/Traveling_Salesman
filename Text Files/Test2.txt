@@ -1,0 +1,22 @@
+digraph G{
+Sofia;
+Burgas;
+Varna;
+Vratsa;
+Mezdra;
+Plovdiv;
+Pleven;
+Vidin;
+Sofia->Vratsa [dir = "none" label = "3"];
+Vratsa->Vidin [dir = "none" label = "11"];
+Sofia->Plovdiv [dir = "none" label = "7"];
+Burgas->Varna [dir = "none" label = "5"];
+Pleven->Sofia [dir = "none" label = "12"];
+Vratsa->Mezdra[dir = "none" label = "4"];
+Varna->Mezdra [dir = "none" label = "1"];
+Vratsa->Pleven [dir = "none" label = "10"];
+Plovdiv->Varna [dir = "none" label = "8"];
+Varna->Sofia [dir = "none" label = "9"];
+Burgas->Mezdra [dir = "none" label = "2"];
+Sofia->Burgas [dir = "none" label = "6"];
+}
