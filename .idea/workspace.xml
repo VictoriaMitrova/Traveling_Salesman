@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e180f00f-188c-4413-9660-a1235e804a81" name="Default Changelist" comment="" />
+    <list default="true" id="e180f00f-188c-4413-9660-a1235e804a81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PathsMatrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/PathsMatrix.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nka9fvvUUGjRUgT3ZMz8FH5ZVv" />
   <component name="ProjectViewState">
@@ -42,6 +48,7 @@
       <workItem from="1612716911601" duration="28000" />
       <workItem from="1612720253846" duration="15000" />
       <workItem from="1612778156794" duration="666000" />
+      <workItem from="1636113789678" duration="30000" />
     </task>
     <servers />
   </component>

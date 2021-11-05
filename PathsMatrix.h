@@ -53,6 +53,8 @@ private:
     void deleteCities();
     void deleteRelations();
 
+    void justGitTest();
+
 };
 
 
